@@ -1,2 +1,1 @@
-# hybrid
-qedge stock accounting project
+#Hybrid_Framework
